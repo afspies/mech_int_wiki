@@ -1,5 +1,5 @@
 # Contributing to the Mechanistic Interpretability Wiki
-As the wiki is made through [gitbooks](https://afspies.gitbook.io/mechanistic-interpretability-wiki/), new content can be added to the wiki either through gitbook.com (request access from [afspies@imperial.ac.uk](mailto:afspies@imperial.ac.uk) or through github via pull-requests using markdown files directly.
+As the wiki is made through [gitbooks](https://afspies.gitbook.io/mechanistic-interpretability-wiki/), new content can be added to the wiki either through gitbook.com (request access from [afspies@imperial.ac.uk](mailto:afspies@imperial.ac.uk) or through github via pull-requests using markdown files directly).
 
 Contributions to existing pages or addition of new pages is very welcome! Contributors will be accredited on the published wiki too.
 
